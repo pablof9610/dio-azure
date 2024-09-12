@@ -8,7 +8,7 @@ O serviço está localizado na divisão Compute, com o nome de Virtual Machines 
 ## 2. Criar a máquina virtual
 
 No menu Create, selecione Azure Virtual Machine:
-    ![image](https://github.com/pablof9610/dio-azure/blob/main/assets/image2.png)
+![image](https://github.com/pablof9610/dio-azure/blob/main/assets/image2.png)
 
 Em seguida, você pode escolher várias configurações e especificações do sistema operacional/hardware:
     ![image](https://github.com/pablof9610/dio-azure/blob/main/assets/image3.png)
